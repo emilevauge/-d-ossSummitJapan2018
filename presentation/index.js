@@ -101,7 +101,7 @@ export default class Presentation extends React.Component {
         <Slide bgColor="white">
           <Image src={images.traefik.replace("/", "")} margin="0px auto 20px" fit height="200" />
           <Heading size={2} caps fit textColor="primary">
-            Clound Native  
+            Cloud Native  
             </Heading>
           <Heading size={1} caps fit textColor="primary" >
           Edge Router
